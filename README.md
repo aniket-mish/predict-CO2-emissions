@@ -1,1 +1,1 @@
-# serverless-ml-fraud-detection
+# Predict Store Sales
